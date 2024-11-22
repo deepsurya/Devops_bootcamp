@@ -9,3 +9,6 @@ root
 sudo
 su
 sudo su
+usermod
+useradd
+userdel
