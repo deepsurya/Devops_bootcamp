@@ -5,4 +5,7 @@ vim
 nano
 cp
 mv
-
+root
+sudo
+su
+sudo su
